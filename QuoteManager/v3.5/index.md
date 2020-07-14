@@ -1,4 +1,4 @@
-# Release Notes (version 3.5)
+# Version 3.5
 
 ## Support for multiple languages (#174)
 
