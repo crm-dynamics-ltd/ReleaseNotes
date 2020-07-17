@@ -1,6 +1,7 @@
 # Version 3.5
 
 **Update 3.5.1**: Moved order management button from the quote header main ribbon to the order subgrid (#157)
+
 **Update 3.5.2**: Improved performance when opening the quote manager for the first time (#227)
 
 ---
