@@ -1,5 +1,10 @@
 # Version 3.5
 
+**Update 3.5.1**: Moved order management button from the quote header main ribbon to the order subgrid (#157)
+**Update 3.5.2**: Improved performance when opening the quote manager for the first time (#227)
+
+---
+
 ## Support for multiple languages (#174)
 
 Starting from this release, the Quote Manager support multiple languages. It leverages the Dynamics architecture to read the **Display Name** of the fields within the entities and displays them in the grid.
