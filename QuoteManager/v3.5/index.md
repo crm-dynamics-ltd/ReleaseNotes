@@ -6,6 +6,8 @@
 
 **Update 3.5.3**: Fixed allow cost price change not working correctly #234
 
+**Update 3.5.4**: Fixed problem when saving templates containing configuration products #240
+
 ---
 
 ## Support for multiple languages #174
