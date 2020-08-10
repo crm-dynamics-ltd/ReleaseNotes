@@ -8,6 +8,8 @@
 
 **Update 3.5.4**: Fixed problem when saving templates containing configuration products #240
 
+**Update 3.5.5**: Added ability to apply discount to configuration items #242
+
 ---
 
 ## Support for multiple languages #174
